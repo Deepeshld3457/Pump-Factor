@@ -30,9 +30,6 @@ both dimension tables.
 3. **Key Insights** — Summary findings and final recommendation
 
 ## Tools Used
-Power BI Desktop, DAX, Excel (dummy data source), Python (synthetic data generation)
+Power BI Desktop, DAX, Excel
 
-## Screenshots
-![Page 1 - Overview](screenshots/page1.png)
-![Page 2 - Deep Dive](screenshots/page2.png)
-![Page 3 - Key Insights](screenshots/page3.png)
+
