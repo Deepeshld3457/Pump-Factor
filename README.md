@@ -33,6 +33,6 @@ both dimension tables.
 Power BI Desktop, DAX, Excel (dummy data source), Python (synthetic data generation)
 
 ## Screenshots
-![Page 1 - Overview](screenshots/page1.png)
-![Page 2 - Deep Dive](screenshots/page2.png)
-![Page 3 - Key Insights](screenshots/page3.png)
+![Page 1 - Overview](Screenshots/page1.png)
+![Page 2 - Deep Dive](Screenshots/page2.png)
+![Page 3 - Key Insights](Screenshots/page3.png)
